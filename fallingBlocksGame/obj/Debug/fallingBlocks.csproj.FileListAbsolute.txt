@@ -1,0 +1,13 @@
+F:\study\4th year\hurry\3rd semester\graphics\practical\second homework\2nd homework\fallingBlocksGame\bin\Debug\2nd homework.exe.config
+F:\study\4th year\hurry\3rd semester\graphics\practical\second homework\2nd homework\fallingBlocksGame\obj\Debug\Interop.WMPLib.dll
+F:\study\4th year\hurry\3rd semester\graphics\practical\second homework\2nd homework\fallingBlocksGame\obj\Debug\fallingBlocks.csproj.ResolveComReference.cache
+F:\study\4th year\hurry\3rd semester\graphics\practical\second homework\2nd homework\fallingBlocksGame\obj\Debug\2nd homework.exe
+F:\study\4th year\hurry\3rd semester\graphics\practical\second homework\2nd homework\fallingBlocksGame\obj\Debug\2nd homework.pdb
+F:\study\4th year\hurry\3rd semester\graphics\practical\second homework\2nd homework\fallingBlocksGame\bin\Debug\2nd homework.exe
+F:\study\4th year\hurry\3rd semester\graphics\practical\second homework\2nd homework\fallingBlocksGame\bin\Debug\2nd homework.pdb
+F:\study\4th year\hurry\3rd semester\graphics\practical\second homework\2nd homework\fallingBlocksGame\bin\Debug\OpenTK.dll
+F:\study\4th year\hurry\3rd semester\graphics\practical\second homework\2nd homework\fallingBlocksGame\bin\Debug\OpenTK.GLControl.dll
+F:\study\4th year\hurry\3rd semester\graphics\practical\second homework\2nd homework\fallingBlocksGame\obj\Debug\fallingBlocks.csprojResolveAssemblyReference.cache
+F:\study\4th year\hurry\3rd semester\graphics\practical\second homework\2nd homework\fallingBlocksGame\obj\Debug\_2nd_homework.AdvancedOptionsForm.resources
+F:\study\4th year\hurry\3rd semester\graphics\practical\second homework\2nd homework\fallingBlocksGame\obj\Debug\_2nd_homework.FallingBlockForm.resources
+F:\study\4th year\hurry\3rd semester\graphics\practical\second homework\2nd homework\fallingBlocksGame\obj\Debug\fallingBlocks.csproj.GenerateResource.Cache
